@@ -1,3 +1,15 @@
+# v0.0.4 (Wed Nov 23 2022)
+
+#### ⚠️ Pushed to `main`
+
+- Update docker-compose.yml ([@aswinmahesh](https://github.com/aswinmahesh))
+
+#### Authors: 1
+
+- CAM ([@aswinmahesh](https://github.com/aswinmahesh))
+
+---
+
 # v0.0.3 (Wed Nov 23 2022)
 
 #### ⚠️ Pushed to `main`
