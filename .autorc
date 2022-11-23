@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "aswinmahesh",
+  "repo": "container-s7mlanc",
+  "name": "aswinmahesh",
+}
