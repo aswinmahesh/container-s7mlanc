@@ -1,9 +1,11 @@
 services:
-  app:
-    image: container-s7mlanc
-    build:
-      context: ./src
-    ports:
-      - "80:80"
+  grocy:
+    image: lscr.io/linuxserver/grocy:latest
+    container_name: grocy
+    environment:
+      - TZ=Asia/Kolkata
     volumes:
-      - ./src/data
+      - ./src/data:/config
+    ports:
+      - 80:80
+    restart: unless-stopped
