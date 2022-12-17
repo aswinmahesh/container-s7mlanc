@@ -1,3 +1,15 @@
+# v0.0.8 (Sat Dec 17 2022)
+
+#### ⚠️ Pushed to `main`
+
+- Update Dockerfile ([@aswinmahesh](https://github.com/aswinmahesh))
+
+#### Authors: 1
+
+- CAM ([@aswinmahesh](https://github.com/aswinmahesh))
+
+---
+
 # v0.0.7 (Sat Dec 17 2022)
 
 #### ⚠️ Pushed to `main`
